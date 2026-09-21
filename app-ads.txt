@@ -1,0 +1,4 @@
+# app-ads.txt for Circuit Shift: Relays (Manfred Uschan / Onvexa Labs)
+# Replace pub-0000000000000000 with YOUR AdMob publisher ID
+# (AdMob > Settings > Account information > Publisher ID) before publishing.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
