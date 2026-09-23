@@ -1,4 +1,9 @@
 # app-ads.txt for Sparkrail (Manfred Uschan / Onvexa Labs)
-# Replace pub-0000000000000000 with YOUR AdMob publisher ID
-# (AdMob > Settings > Account information > Publisher ID) before publishing.
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# AdMob publisher ID: pub-9404893474354911
+#
+# NOTE: this copy is NOT the one AdMob crawls. AdMob only reads
+# https://<developer-website-domain>/app-ads.txt, and this site lives in a
+# sub-path (/sparkrail-site/). The authoritative copy is at the root of
+# https://onvexalabs-dev.github.io/ (repo onvexalabs-dev/onvexalabs-dev.github.io).
+# Keep the two identical.
+google.com, pub-9404893474354911, DIRECT, f08c47fec0942fa0
